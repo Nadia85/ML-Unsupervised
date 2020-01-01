@@ -1,4 +1,4 @@
-# Unsupervised-ML
+# Unsupervised Learning
 Clustering Algorithms for Data Science
 
 
